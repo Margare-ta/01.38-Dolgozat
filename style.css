@@ -55,3 +55,28 @@ ul{
     list-style-image: url(img/kukac.png);
 }
 
+.kep3{
+    float: left;
+    margin: 20px;
+    margin-top: 55px;
+   
+}
+
+
+.kep4{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.kep5{
+    float: left;
+    margin: 20px;
+    margin-top: 55px;
+}
+
+#a{
+    font-style: italic;
+    margin-left: 350px;
+}
+
