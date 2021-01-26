@@ -40,8 +40,18 @@ img{
 
 .kep1{
     float: right;
+    margin-bottom: 40px;
+    margin-left: 20px;
 }
 
-kep2{
+.kep2{
     float: right;
+    clear: both;
+    margin-left: 20px;
+    margin-bottom: 5px;
 }
+
+ul{
+    list-style-image: url(img/kukac.png);
+}
+
